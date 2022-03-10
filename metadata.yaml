@@ -1,5 +1,8 @@
 _repo: Adolescence_67501
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67501-h/images/cover.jpg
 creator:
   author:
     agent_name: Paget, Stephen
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '41802'
     url: http://www.gutenberg.org/2009/agents/41802
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67501#Adolescence
 gutenberg_issued: '2022-02-26'
 identifiers:
   gutenberg: '67501'
